@@ -1,0 +1,5 @@
+User ID | Access Hash | Username | First Name | Last Name
+================================================================================
+7756739063 | -4688168115672164933 | mytemplatemultipurposebot | multipurpose | N/A
+6915648035 | -3052772417246029620 | zzzzzvff | Ab | N/A
+2126443079 | 765643097284794389 | abnet_abi | Abnet W | N/A
