@@ -18,7 +18,7 @@ def restart_bot():
     global process
     if process:
         process.kill()
-    process = Popen([sys.executable, "bot.py"])  # Replace "bot.py" with your main bot file name
+    process = Popen([sys.executable, "add_member.py"])  # Replace "bot.py" with your main bot file name
 
 if __name__ == "__main__":
     path = "."  # Watch the current directory

@@ -1,3 +1,4 @@
 telethon
 pandas
-
+pyfiglet
+keyboard

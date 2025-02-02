@@ -1,0 +1,2 @@
+username,user_id,access_hash,group,group_id,status
+abnet_abi,2126443079,765643097284794389,Group A,343433443,active
